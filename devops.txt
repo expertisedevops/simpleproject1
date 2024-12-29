@@ -1,0 +1,3 @@
+DevOps is a culture in SDLC process
+DevOps is all about speeding the process involved in SDLC
+We implement CICD process
