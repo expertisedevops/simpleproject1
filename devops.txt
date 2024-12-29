@@ -1,3 +1,11 @@
 DevOps is a culture in SDLC process
 DevOps is all about speeding the process involved in SDLC
 We implement CICD process
+
+
+The steps involved in CICD
+cont download
+cont build
+cont deploy 
+cont test
+cont delivery
